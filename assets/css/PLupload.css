@@ -1,0 +1,18 @@
+#upload-progress-cont {
+    width:100%;
+    padding:3px;
+    height:18px;
+    border: 1px solid #0000003a;
+    margin-top:10px;
+}
+#upload-progress-bar{
+    width:0%;
+    background:#28a745;
+    height:10px;
+    text-align:center;
+    color: #fff;
+}
+#file-list{
+    padding:5px;
+    margin: 5px;
+}
